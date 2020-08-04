@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T13:09:20.602Z" agent="5.0 (Windows)" version="13.5.9" etag="nZb1A63LkNH8URZXndok" type="github"><diagram id="Ghr2u1_61QQ_9EWRdpl4">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-04T16:17:34.902Z" agent="5.0 (Windows)" etag="f-w9l1JNXzUEshwidD8h" version="13.5.9" type="github">
+  <diagram id="Ghr2u1_61QQ_9EWRdpl4" name="Page-1">
+    <mxGraphModel dx="2410" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="c0gerypjPH0M59WLCoc0-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0gerypjPH0M59WLCoc0-3" target="c0gerypjPH0M59WLCoc0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-3" value="SDKS Which are Mobile Clouds SDKS " style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="98" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-4" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" width="680" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c0gerypjPH0M59WLCoc0-1" target="c0gerypjPH0M59WLCoc0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="69" width="600" height="386" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-5" value="Oracle mobile Cloud Service " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="10" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0gerypjPH0M59WLCoc0-7" target="c0gerypjPH0M59WLCoc0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-7" value="Monitoring services ,Analytics " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-8" value="Platform APIS " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="340" width="500" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0gerypjPH0M59WLCoc0-10" target="c0gerypjPH0M59WLCoc0-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0gerypjPH0M59WLCoc0-10" target="c0gerypjPH0M59WLCoc0-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-10" value="Mobile Backend " style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c0gerypjPH0M59WLCoc0-11" target="c0gerypjPH0M59WLCoc0-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-11" value="NODE JS Server (Custom APIS" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="220" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c0gerypjPH0M59WLCoc0-12" target="c0gerypjPH0M59WLCoc0-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-12" value="Connector APIS " style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="210" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-14" value="Any Cloud API " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="60" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-15" value="" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="260" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-18" value="Integration Cloud " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="160" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-21" value="IDCS" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-22" value="Notification" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="340" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-23" value="Database " style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="710" y="350" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-24" value="OMH Storage APIS " style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="790" y="334" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-28" value="Gateway , implementation " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-29" value="vbcs" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="16" width="98" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-30" value="Offline data and sync+cache" style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="650" y="355" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=60;entryPerimeter=0;" edge="1" parent="1" source="c0gerypjPH0M59WLCoc0-31" target="c0gerypjPH0M59WLCoc0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-31" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Using API&amp;nbsp; Can be tested using POstman&lt;/font&gt;" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="400" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="c0gerypjPH0M59WLCoc0-34" value="Mobile&amp;nbsp; API gets called ." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="360" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
