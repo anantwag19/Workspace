@@ -1,1 +1,69 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T18:02:57.584Z" agent="5.0 (Windows)" version="13.6.0" etag="6HNBpDEG2RhkRkCDah8g" type="github"><diagram id="OdgtyWYCVP94SG5_ZpF6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-07T18:07:44.045Z" agent="5.0 (Windows)" etag="HP3ziy2_QsLQWTTT4pR0" version="13.6.1" type="github">
+  <diagram id="OdgtyWYCVP94SG5_ZpF6" name="Page-1">
+    <mxGraphModel dx="868" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-1" value="MAster-SCResource Manager " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="190" y="270" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="250" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-6" value="Partition at RAm " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-7" value="Partition at ram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-8" value="Parttion at ram " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gohaL3tR6jrHy7WJMFqP-14" target="gohaL3tR6jrHy7WJMFqP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gohaL3tR6jrHy7WJMFqP-9" target="gohaL3tR6jrHy7WJMFqP-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gohaL3tR6jrHy7WJMFqP-9" target="gohaL3tR6jrHy7WJMFqP-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gohaL3tR6jrHy7WJMFqP-9" target="gohaL3tR6jrHy7WJMFqP-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-9" value="In Ram of MAster Node " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="140" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-14" value="Executor" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gohaL3tR6jrHy7WJMFqP-9" target="gohaL3tR6jrHy7WJMFqP-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="180" as="sourcePoint" />
+            <mxPoint x="232.5" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-16" value="Executor" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-17" value="Executor" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-18" value="Executor" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-19" value="RDD (Resilent Distributed Dataset) Immutable " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
