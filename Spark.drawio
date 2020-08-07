@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T18:07:44.045Z" agent="5.0 (Windows)" etag="HP3ziy2_QsLQWTTT4pR0" version="13.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-07T18:12:58.268Z" agent="5.0 (Windows)" etag="FpMy0gKxTkW6lt3Z86mF" version="13.6.1" type="github">
   <diagram id="OdgtyWYCVP94SG5_ZpF6" name="Page-1">
     <mxGraphModel dx="868" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -16,8 +16,8 @@
         <mxCell id="gohaL3tR6jrHy7WJMFqP-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="570" y="250" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="gohaL3tR6jrHy7WJMFqP-6" value="Partition at RAm " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="290" width="50" height="30" as="geometry" />
+        <mxCell id="gohaL3tR6jrHy7WJMFqP-6" value="Partition at RAm " style="rounded=1;whiteSpace=wrap;html=1;arcSize=43;" vertex="1" parent="1">
+          <mxGeometry x="230" y="300" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gohaL3tR6jrHy7WJMFqP-7" value="Partition at ram" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="385" y="280" width="50" height="30" as="geometry" />
