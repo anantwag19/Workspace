@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-09T19:55:07.925Z" agent="5.0 (Windows)" etag="t59WRvuVBhJEntJgQlhI" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-09T21:45:23.236Z" agent="5.0 (Windows)" etag="rb-BROON4xAhQP227rlI" version="13.6.2" type="github">
   <diagram id="qrH5PuzCaYkRITnLdpkR" name="Page-1">
     <mxGraphModel dx="868" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,17 +6,17 @@
         <mxCell id="1" parent="0" />
         <mxCell id="kWWJFYjSpHNDpiU2Mv6o-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kWWJFYjSpHNDpiU2Mv6o-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="290" as="targetPoint" />
+            <mxPoint x="360" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kWWJFYjSpHNDpiU2Mv6o-1" value="" style="shape=mxgraph.signs.tech.computer;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="120" y="200" width="98" height="98" as="geometry" />
         </mxCell>
         <mxCell id="kWWJFYjSpHNDpiU2Mv6o-3" value="Event HUB APP " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="230" width="120" height="130" as="geometry" />
+          <mxGeometry x="365" y="150" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kWWJFYjSpHNDpiU2Mv6o-4" value="Resource Server " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="170" width="120" height="130" as="geometry" />
+          <mxGeometry x="640" y="130" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="kWWJFYjSpHNDpiU2Mv6o-5" value="IDCS " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="10" width="120" height="90" as="geometry" />
