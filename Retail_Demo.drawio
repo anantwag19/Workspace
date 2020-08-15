@@ -1,1 +1,101 @@
-<mxfile host="app.diagrams.net" modified="2020-08-15T18:14:42.485Z" agent="5.0 (Windows)" version="13.6.2" etag="0VEGmELqLqlzLzSKAUnm" type="github"><diagram id="LKb5HYfqCbqVrzSAMe80">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-15T18:33:47.319Z" agent="5.0 (Windows)" etag="o4-Gh8FEMalVDZnSKqSE" version="13.6.2" type="github">
+  <diagram id="LKb5HYfqCbqVrzSAMe80" name="Page-1">
+    <mxGraphModel dx="868" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-2" target="cjj3CHCCysUSxjC3RCbc-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="135" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-2" value="LISA MOBILE " style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.smartphone;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-3" target="cjj3CHCCysUSxjC3RCbc-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="20" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="95" />
+              <mxPoint x="720" y="95" />
+              <mxPoint x="720" y="20" />
+              <mxPoint x="550" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-3" value="Oracle Partner (Ingredient APIS BAsed on the Product code ) " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.103;entryY=0.499;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-4" target="cjj3CHCCysUSxjC3RCbc-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-4" value="Retails Store " style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="550" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-5" target="cjj3CHCCysUSxjC3RCbc-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-5" target="cjj3CHCCysUSxjC3RCbc-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-5" value="&lt;div&gt;Oracle Mobile Cloud/&lt;/div&gt;&lt;div&gt;Digital chat bot &lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-6" target="cjj3CHCCysUSxjC3RCbc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-6" target="cjj3CHCCysUSxjC3RCbc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-6" target="cjj3CHCCysUSxjC3RCbc-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-6" value="&lt;div&gt;Integration Cloud &lt;br&gt;&lt;/div&gt;&lt;div&gt;Service &lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="50" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-8" value="&lt;div&gt;Lisa Hi &lt;br&gt;&lt;/div&gt;&lt;div&gt;Bot : Welcome &lt;br&gt;&lt;/div&gt;&lt;div&gt;Scan item &lt;br&gt;&lt;/div&gt;&lt;div&gt;Ingrediets &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.677;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-15" target="cjj3CHCCysUSxjC3RCbc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-15" value="&lt;div&gt;Oracle Event Hub &lt;br&gt;&lt;/div&gt;&lt;div&gt;{JSON}&lt;br&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-18" value="Oracle Big data cloud " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="140" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-19" value="Object Storage " style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-21" value="HIVE " style="shape=cylinder2;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="270" y="400" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.346;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-22" target="cjj3CHCCysUSxjC3RCbc-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-22" target="cjj3CHCCysUSxjC3RCbc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-22" value="SPARK JOB" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-25" value="24 hours " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjj3CHCCysUSxjC3RCbc-26" target="cjj3CHCCysUSxjC3RCbc-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-26" value="&lt;div&gt;Oracle Anallytics &lt;br&gt;&lt;/div&gt;&lt;div&gt;Cloud &lt;br&gt; &lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="510" width="250" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cjj3CHCCysUSxjC3RCbc-29" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="230" y="640" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
