@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T10:10:40.559Z" agent="5.0 (Windows)" etag="WmmPnVXABsToBtCYto2s" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-16T10:13:18.701Z" agent="5.0 (Windows)" etag="MLsCXM6aHajubWUJSPxX" version="13.6.2" type="github">
   <diagram id="SFTwNNUFkDEGVQa8I74H" name="Page-1">
-    <mxGraphModel dx="868" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="723" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,8 +141,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nD6A3iVgp1iZObP_W5-t-55" value="Kubectl create " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="490" width="90" height="20" as="geometry" />
+        <mxCell id="nD6A3iVgp1iZObP_W5-t-55" value="Kubectl srat ,stop&amp;nbsp; " style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="490" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
