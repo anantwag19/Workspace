@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-16T10:04:07.112Z" agent="5.0 (Windows)" etag="immxOXFHUJoEmF2CcmQd" version="13.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-16T10:10:40.559Z" agent="5.0 (Windows)" etag="WmmPnVXABsToBtCYto2s" version="13.6.2" type="github">
   <diagram id="SFTwNNUFkDEGVQa8I74H" name="Page-1">
-    <mxGraphModel dx="1063" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,8 +62,8 @@
         <mxCell id="nD6A3iVgp1iZObP_W5-t-10" value="Operator " style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="310" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nD6A3iVgp1iZObP_W5-t-25" value="&lt;ul&gt;&lt;li&gt;User will &lt;br&gt;&lt;/li&gt;&lt;li&gt;Value 2&lt;/li&gt;&lt;li&gt;Value 3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="830" y="130" width="200" height="310" as="geometry" />
+        <mxCell id="nD6A3iVgp1iZObP_W5-t-25" value="&lt;ul style=&quot;font-size: 18px&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;User will Pull a)Weblogic domian image b)Operator Image &amp;nbsp; &lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Inside Kubernetes cluster Secrets (Admin server )&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;User&#39;s using Helm , thy install Operator, Loadbalancer&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Kubectl--&amp;gt;DomainInstaller.yaml--&amp;gt; Domain configuration &lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Operator Will use the above domain Configuration and create Admin Server , Managed server 1,Managed Server 2 .&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Kubectl&amp;nbsp; will manage Server start , whatever&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="830" y="130" width="470" height="310" as="geometry" />
         </mxCell>
         <mxCell id="nD6A3iVgp1iZObP_W5-t-26" value="LoadBalancer " style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="320" width="80" height="40" as="geometry" />
