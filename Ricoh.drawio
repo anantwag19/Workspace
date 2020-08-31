@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T11:11:55.457Z" agent="5.0 (Windows)" version="13.6.5" etag="97EA9lZDwmAnfghlPkL5" type="github"><diagram id="m7Rq0othtwe6MYNRoLJ3">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-31T12:39:10.067Z" agent="5.0 (Windows)" etag="43Yur6bdeif_fdMJeN00" version="13.6.5" type="github">
+  <diagram id="m7Rq0othtwe6MYNRoLJ3" name="Page-1">
+    <mxGraphModel dx="950" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="T9Dtz7ng8269gEaztBPX-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry y="280" width="830" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry y="-400" width="780" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9Dtz7ng8269gEaztBPX-1" target="T9Dtz7ng8269gEaztBPX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-1" value="&lt;span lang=&quot;EN-GB&quot;&gt;PPMto CPQ Schedule:19&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="32.4" height="31.5" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-3" value="Oracle PPM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-4" value="Oracle CPQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9Dtz7ng8269gEaztBPX-6" target="T9Dtz7ng8269gEaztBPX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9Dtz7ng8269gEaztBPX-6" target="T9Dtz7ng8269gEaztBPX-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-6" value="&lt;span title=&quot;ERPExtract (1.0)&quot; class=&quot;x2b8 x2o6&quot; style=&quot;margin-left: 20px ; max-width: 900px&quot;&gt;ERPExtract&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9Dtz7ng8269gEaztBPX-7" target="T9Dtz7ng8269gEaztBPX-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9Dtz7ng8269gEaztBPX-7" target="T9Dtz7ng8269gEaztBPX-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="210" />
+              <mxPoint x="460" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-7" value="ERPExtractCallback" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-12" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.shared_folder;" vertex="1" parent="1">
+          <mxGeometry x="302.4" y="76" width="55.2" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-370" width="230" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-17" value="OIC Shared Folder " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-18" value="(File Location ,FileName)" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="110" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-360" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-31" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="T9Dtz7ng8269gEaztBPX-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="-60" as="sourcePoint" />
+            <mxPoint x="570" y="-340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="329" y="-340" />
+              <mxPoint x="320" y="-340" />
+              <mxPoint x="570" y="-340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-34" value="Read File" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-340" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9Dtz7ng8269gEaztBPX-35" target="T9Dtz7ng8269gEaztBPX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-35" value="Rest Adapter Invoking CPQ Transaction Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="30" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-37" value="PPM to CPQ UpdateQuoteLine:19" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-390" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-39" value="Scope : Traverse Over Payload " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-41" value="Oracle SAAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-42" value="Oracle PAAS -OIC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-390" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-43" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="140" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-44" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-45" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="338" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-46" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="460" y="170" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-49" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;fontFamily=Tahoma;spacingBottom=4;spacingRight=2;strokeColor=#d3d3d3;" vertex="1" parent="1">
+          <mxGeometry x="355" y="-330" width="25" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-53" value="If ERROR " style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="-90" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-56" value="Scope: file Read" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-360" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="T9Dtz7ng8269gEaztBPX-57" value="FTP Read File" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="-330" width="60" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
