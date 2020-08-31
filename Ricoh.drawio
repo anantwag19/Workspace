@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-31T19:10:18.663Z" agent="5.0 (Windows)" etag="UgWg6ziuhQRNsRclsx8q" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-31T19:12:25.240Z" agent="5.0 (Windows)" etag="28sQVMGvB_d6HELaztAx" version="13.6.5" type="github">
   <diagram id="m7Rq0othtwe6MYNRoLJ3" name="Page-1">
-    <mxGraphModel dx="1886" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1543" dy="1713" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,10 +78,14 @@
           <mxGeometry x="380" y="-340" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="T9Dtz7ng8269gEaztBPX-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="T9Dtz7ng8269gEaztBPX-35" target="T9Dtz7ng8269gEaztBPX-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="T9Dtz7ng8269gEaztBPX-35" value="Rest Adapter Invoking CPQ Transaction Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="30" width="110" height="40" as="geometry" />
+        <mxCell id="T9Dtz7ng8269gEaztBPX-35" value="Rest Adapter Invoke CPQ Transaction Line" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="10" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="T9Dtz7ng8269gEaztBPX-37" value="PPM to CPQ UpdateQuoteLine:19" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="-390" width="40" height="20" as="geometry" />
