@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T09:17:55.747Z" agent="5.0 (Windows)" etag="xGwsgNWxKcjg-kRzXqk4" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T11:28:15.915Z" agent="5.0 (Windows)" etag="sv8DQPuOO9l2oQoHn-xC" version="13.6.9" type="github">
   <diagram id="5I-gD_W-KZCsDyDylZU_" name="Page-1">
     <mxGraphModel dx="1718" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,8 +36,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0e49-PqyqZlQBQo4UoOZ-4" value="Convert the XML response received in String format to XML Structure of&amp;nbsp; item&amp;nbsp; and write it in Stage Location &#39;/ic/savexml&#39;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="314.5" y="250" width="182.5" height="100" as="geometry" />
+        <mxCell id="0e49-PqyqZlQBQo4UoOZ-4" value="&lt;div&gt;Convert the XML response received in String format to XML Structure of&amp;nbsp; item&amp;nbsp; and write it in Stage Location &#39;/ic/savexml&#39;.&lt;/div&gt;&lt;div&gt;During Transformation .&lt;/div&gt;&lt;div&gt;Based on Action Code =&quot;CREATE&quot; OR &quot;UPDATE&quot;&amp;nbsp; operation will be decided run time &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="314.5" y="250" width="235.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="VeYT77s0EX5LfMQfDc4j-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0e49-PqyqZlQBQo4UoOZ-6" target="QHXR7YhkN095CH-k1CKK-3">
           <mxGeometry relative="1" as="geometry">
@@ -171,7 +171,7 @@
         <mxCell id="QHXR7YhkN095CH-k1CKK-51" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="QHXR7YhkN095CH-k1CKK-46" vertex="1">
           <mxGeometry y="80" width="240" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="QHXR7YhkN095CH-k1CKK-52" value="PIM-WMS Item Master Create 117" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="QHXR7YhkN095CH-k1CKK-51" vertex="1">
+        <mxCell id="QHXR7YhkN095CH-k1CKK-52" value="PIM-WMS Item Master Create 117/ PIM-WMS Item Master Update 117" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;" parent="QHXR7YhkN095CH-k1CKK-51" vertex="1">
           <mxGeometry width="160" height="99" as="geometry" />
         </mxCell>
         <mxCell id="QHXR7YhkN095CH-k1CKK-53" value="&amp;lt;Email Ids&lt;br&gt;of Stakeholders&amp;gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="QHXR7YhkN095CH-k1CKK-51" vertex="1">
