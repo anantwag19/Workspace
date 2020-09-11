@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T08:41:34.106Z" agent="5.0 (Windows)" etag="i9kITeQcyOOfIc732iGn" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-11T09:08:18.641Z" agent="5.0 (Windows)" etag="E_uFktv40B6o9dkKNfHU" version="13.6.9" type="github">
   <diagram id="5I-gD_W-KZCsDyDylZU_" name="Page-1">
     <mxGraphModel dx="1718" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,17 +28,27 @@
             <mxPoint x="405" y="140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0e49-PqyqZlQBQo4UoOZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0e49-PqyqZlQBQo4UoOZ-4" target="0e49-PqyqZlQBQo4UoOZ-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VeYT77s0EX5LfMQfDc4j-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0e49-PqyqZlQBQo4UoOZ-4" target="0e49-PqyqZlQBQo4UoOZ-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406" y="380" />
+              <mxPoint x="406" y="380" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="0e49-PqyqZlQBQo4UoOZ-4" value="Convert the XML response received in String format to XML Structure of&amp;nbsp; item&amp;nbsp; and write it in Stage Location &#39;/ic/savexml&#39;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="327.5" y="250" width="182.5" height="100" as="geometry" />
+          <mxGeometry x="314.5" y="250" width="182.5" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QHXR7YhkN095CH-k1CKK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0e49-PqyqZlQBQo4UoOZ-6" target="QHXR7YhkN095CH-k1CKK-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="VeYT77s0EX5LfMQfDc4j-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0e49-PqyqZlQBQo4UoOZ-6" target="QHXR7YhkN095CH-k1CKK-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="411" y="660" />
+              <mxPoint x="411" y="660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="0e49-PqyqZlQBQo4UoOZ-6" value="Read the Item&amp;nbsp; Information in XML format from Stage Location" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="302.5" y="400" width="205" height="60" as="geometry" />
+        <mxCell id="0e49-PqyqZlQBQo4UoOZ-6" value="Read&amp;nbsp; Item&amp;nbsp; Information in XML format from Stage Location and&amp;nbsp; Transform&amp;nbsp; Payload into String format&amp;nbsp; and send as &quot;xml_payload&quot; " style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="303.5" y="400" width="217.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="0e49-PqyqZlQBQo4UoOZ-9" value="&lt;b&gt;PIM-WMS ITEM MASTER Information 117&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="327.5" y="50" width="230" height="20" as="geometry" />
@@ -50,20 +60,14 @@
           <mxGeometry x="620" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mRJb8Xiix1zrQny_DELV-41" value="Payload received n XML as&amp;nbsp; String &lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="310" y="80" width="180" height="90" as="geometry" />
+          <mxGeometry x="319" y="80" width="180" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="QHXR7YhkN095CH-k1CKK-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QHXR7YhkN095CH-k1CKK-1" target="QHXR7YhkN095CH-k1CKK-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QHXR7YhkN095CH-k1CKK-1" value="Transform the item master Information Read from Stage Location to&amp;nbsp; WMS&amp;nbsp; item master&amp;nbsp; Schema Structure&lt;br&gt;and write it in stage location" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="317.5" y="560" width="175" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="QHXR7YhkN095CH-k1CKK-23" value="&lt;b&gt;xml_payload&lt;/b&gt;,&lt;b&gt;entity&lt;/b&gt;=item&lt;br&gt;&lt;b&gt;sourceservice&lt;/b&gt;=&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;SCM-WMS SupplierInformation 068&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.363;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QHXR7YhkN095CH-k1CKK-3" target="QHXR7YhkN095CH-k1CKK-20" edge="1">
+        <mxCell id="QHXR7YhkN095CH-k1CKK-23" value="&lt;b&gt;xml_payload&lt;/b&gt;,&lt;b&gt;entity&lt;/b&gt;=item&lt;br&gt;&lt;b&gt;sourceservice&lt;/b&gt;=&lt;span style=&quot;font-size: 12px ; background-color: rgb(248 , 249 , 250)&quot;&gt;PIM-WMS Item Master Create 117&lt;br&gt;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.363;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QHXR7YhkN095CH-k1CKK-3" target="QHXR7YhkN095CH-k1CKK-20" edge="1">
           <mxGeometry x="0.2016" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QHXR7YhkN095CH-k1CKK-3" value="Convert the transformed Payload into String format&amp;nbsp; and save it as xml_payload" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="QHXR7YhkN095CH-k1CKK-3" value="invoke WMS POST INIT STAGE Integration using above transformed payload " style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="342.5" y="700" width="157.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QHXR7YhkN095CH-k1CKK-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.354;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QHXR7YhkN095CH-k1CKK-10" target="QHXR7YhkN095CH-k1CKK-82" edge="1">
@@ -191,7 +195,7 @@
         <mxCell id="QHXR7YhkN095CH-k1CKK-61" value="&amp;lt;Environment Value like DEV,PROD&amp;gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" parent="QHXR7YhkN095CH-k1CKK-59" vertex="1">
           <mxGeometry x="160" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QHXR7YhkN095CH-k1CKK-83" value="&lt;div&gt;&lt;span&gt;Map the query parameters&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;to WMS API&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span lang=&quot;EN-GB&quot;&gt;&lt;div&gt;&lt;span&gt;/wms/api/init_stage_interface/&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;&lt;span&gt;async=&#39;False&#39;,validate_xml=&#39;true&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;xml_payload-(Received from calling Service or source service)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;entity=&#39;vendor&#39;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="QHXR7YhkN095CH-k1CKK-83" value="&lt;div&gt;&lt;span&gt;Map the query parameters&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;to WMS API&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;span lang=&quot;EN-GB&quot;&gt;&lt;div&gt;&lt;span&gt;/wms/api/init_stage_interface/&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;div&gt;&lt;span&gt;async=&#39;False&#39;,validate_xml=&#39;true&#39;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;xml_payload-(Received from calling Service or source service)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;entity=&#39;item&#39;&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="272.5" y="1050" width="315" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QHXR7YhkN095CH-k1CKK-13" value="WMS API&lt;br&gt;/wms/api/init_stage_interface&lt;br&gt;via REST" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
