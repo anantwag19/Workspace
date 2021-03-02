@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T13:03:33.336Z" agent="5.0 (Windows)" etag="09uTd4HD371sbTxAKI1H" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-02T13:19:20.013Z" agent="5.0 (Windows)" etag="TdPl9CRNw24tpuKx7Gr8" version="14.4.3" type="github">
   <diagram id="kqYcGlFVVgmk62MRQCvQ" name="Page-1">
     <mxGraphModel dx="1718" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="cKcimtRKkqEDImzuUFGS-46" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;gradientColor=#7ea6e0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-600" y="-52" width="1760" height="3350" as="geometry" />
+          <mxGeometry x="-600" y="-51" width="1760" height="3350" as="geometry" />
         </mxCell>
         <mxCell id="HRfM_kiKL9HyRBQIoTKB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="0WpJYHQ6ToNhvBG4izZX-141" target="cKcimtRKkqEDImzuUFGS-40" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -244,13 +244,13 @@
         <mxCell id="0WpJYHQ6ToNhvBG4izZX-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0WpJYHQ6ToNhvBG4izZX-69" target="0WpJYHQ6ToNhvBG4izZX-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0WpJYHQ6ToNhvBG4izZX-69" value="Read the downloaded file using Stage Action configured using Customer Schema" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="1820" width="150" height="60" as="geometry" />
+        <mxCell id="0WpJYHQ6ToNhvBG4izZX-69" value="Read the downloaded file using Stage Action configured using Schema with feilds same as Docuwere table&amp;nbsp; " style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="1820" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0WpJYHQ6ToNhvBG4izZX-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0WpJYHQ6ToNhvBG4izZX-71" target="0WpJYHQ6ToNhvBG4izZX-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0WpJYHQ6ToNhvBG4izZX-71" value="Transform the Customer details from Extract to Customer Schema of WMS" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0WpJYHQ6ToNhvBG4izZX-71" value="Transform the details from Extract to Schema of&amp;nbsp; Docuwere table" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="95" y="1990" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0WpJYHQ6ToNhvBG4izZX-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0WpJYHQ6ToNhvBG4izZX-73" target="0WpJYHQ6ToNhvBG4izZX-75" edge="1">
