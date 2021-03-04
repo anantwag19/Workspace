@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T14:15:00.903Z" agent="5.0 (Windows)" etag="r-4hvBd55kYNUv_oeZdq" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-04T14:19:42.476Z" agent="5.0 (Windows)" etag="xhawMrmvAty3UpqJHS4G" version="14.4.4" type="github">
   <diagram id="kqYcGlFVVgmk62MRQCvQ" name="Page-1">
     <mxGraphModel dx="2491" dy="1704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -262,11 +262,6 @@
         </mxCell>
         <mxCell id="0WpJYHQ6ToNhvBG4izZX-75" value="Convert the Transformed Payload written in Stage to String format and save it as xml_data" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="105" y="2142" width="160" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="0WpJYHQ6ToNhvBG4izZX-80" value="Invoke WMS POST Init Stage Service&lt;br&gt;with the Mapped parameters via REST POST call&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0WpJYHQ6ToNhvBG4izZX-77" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="182.5" y="2920" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="0WpJYHQ6ToNhvBG4izZX-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0WpJYHQ6ToNhvBG4izZX-83" target="0WpJYHQ6ToNhvBG4izZX-86" edge="1">
           <mxGeometry relative="1" as="geometry" />
