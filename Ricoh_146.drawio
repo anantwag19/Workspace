@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T10:13:42.658Z" agent="5.0 (Windows)" etag="0RXnkUx8Gn3shiqi7m48" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-16T14:43:07.992Z" agent="5.0 (Windows)" etag="wlioHSUC9a6pchdg5gVh" version="14.6.1" type="github">
   <diagram id="kqYcGlFVVgmk62MRQCvQ" name="Page-1">
-    <mxGraphModel dx="2170" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1871" dy="1598" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,7 +148,7 @@
             <mxPoint x="-12" y="-104" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0WpJYHQ6ToNhvBG4izZX-35" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;INTEGRATION_NAME&lt;/b&gt;=ERP-Docuware APInvoice 146&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;OUTPUT_FILE_TYPE&lt;/b&gt;=xml&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;OUTPUT_FILE_PREFIX&lt;/b&gt;=Ricoh146_&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;OUTPUT_FILE_PATH&lt;/b&gt;=&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;/home/users/oic-serviceaccount/outbound/RICOH_146/Output&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;NOTIFICATION_EMAIL_FROM&lt;/b&gt;=no-reply@oracle.com&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;ERROR_LOG_PATH&lt;/b&gt;=/home/users/oic-serviceaccount/outbound/Ricoh146/Log&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;JOB_DEFINITION_NAME&lt;/b&gt;=&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.8) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(235 , 236 , 237) ; display: inline ; float: none&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;CALL_BACK_HOST=&amp;lt;OIC host url&amp;gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;REST_URI&lt;/b&gt;=/&lt;span&gt;ic/api/integration/v1/flows/rest/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;SCM_WMS_069A/1.0/getCustomerExtract&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;IS_DELIVER_TO_REST=&lt;/b&gt;Yes&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;NOTIFICATION_CODE=&amp;lt;&lt;/b&gt;&lt;i&gt;leave it empty&amp;gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;i&gt;&amp;nbsp;keep Rest of the columns blank&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0WpJYHQ6ToNhvBG4izZX-35" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;INTEGRATION_NAME&lt;/b&gt;=ERP-Docuware APInvoice 146&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;OUTPUT_FILE_TYPE&lt;/b&gt;=csv&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;OUTPUT_FILE_PREFIX&lt;/b&gt;=Ricoh146_&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;OUTPUT_FILE_PATH&lt;/b&gt;=&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;/home/users/oic-serviceaccount/outbound/RICOH_146&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;NOTIFICATION_EMAIL_FROM&lt;/b&gt;=no-reply@oracle.com&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;ERROR_LOG_PATH&lt;/b&gt;=/home/users/oic-serviceaccount/outbound/Ricoh146/Log&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;JOB_DEFINITION_NAME&lt;/b&gt;=&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0.8) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(235 , 236 , 237) ; display: inline ; float: none&quot;&gt; &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;CALL_BACK_HOST=&amp;lt;OIC host url&amp;gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;REST_URI&lt;/b&gt;=/&lt;span&gt;ic/api/integration/v1/flows/rest/&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;SCM_WMS_069A/1.0/getCustomerExtract&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;IS_DELIVER_TO_REST=&lt;/b&gt;Yes&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;NOTIFICATION_CODE=&amp;lt;&lt;/b&gt;&lt;i&gt;leave it empty&amp;gt;&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;i&gt;&amp;nbsp;keep Rest of the columns blank&lt;/i&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-530" y="740" width="320" height="460" as="geometry" />
         </mxCell>
         <mxCell id="0WpJYHQ6ToNhvBG4izZX-36" value="&lt;b&gt;ERPExtractJobDetails_Lookup&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -203,7 +203,7 @@
         <mxCell id="0WpJYHQ6ToNhvBG4izZX-59" value="Event Based trigger&lt;br&gt;ERPOutboundIntegration Event" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="85" y="740" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4wsAkTQEufEY9Hd-_VNX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WpJYHQ6ToNhvBG4izZX-62" target="0WpJYHQ6ToNhvBG4izZX-64">
+        <mxCell id="4wsAkTQEufEY9Hd-_VNX-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0WpJYHQ6ToNhvBG4izZX-62" target="0WpJYHQ6ToNhvBG4izZX-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="185" y="1630" />
@@ -222,7 +222,7 @@
             <mxPoint x="59" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wsAkTQEufEY9Hd-_VNX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WpJYHQ6ToNhvBG4izZX-64" target="0WpJYHQ6ToNhvBG4izZX-69">
+        <mxCell id="4wsAkTQEufEY9Hd-_VNX-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0WpJYHQ6ToNhvBG4izZX-64" target="0WpJYHQ6ToNhvBG4izZX-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="1770" />
@@ -239,13 +239,13 @@
         <mxCell id="0WpJYHQ6ToNhvBG4izZX-69" value="Read the downloaded file using Stage Action configured using Schema with feilds same as Docuwere table&amp;nbsp; " style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="1780" width="175" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="4wsAkTQEufEY9Hd-_VNX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WpJYHQ6ToNhvBG4izZX-71" target="0WpJYHQ6ToNhvBG4izZX-73">
+        <mxCell id="4wsAkTQEufEY9Hd-_VNX-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0WpJYHQ6ToNhvBG4izZX-71" target="0WpJYHQ6ToNhvBG4izZX-73" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0WpJYHQ6ToNhvBG4izZX-71" value="Transform the details from Extract to Schema of&amp;nbsp; Docuwere table" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1930" width="195" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4wsAkTQEufEY9Hd-_VNX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WpJYHQ6ToNhvBG4izZX-73" target="0WpJYHQ6ToNhvBG4izZX-75">
+        <mxCell id="4wsAkTQEufEY9Hd-_VNX-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0WpJYHQ6ToNhvBG4izZX-73" target="0WpJYHQ6ToNhvBG4izZX-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0WpJYHQ6ToNhvBG4izZX-73" value="Write the transformed&lt;br&gt;Payload to Stage Directory" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -470,15 +470,15 @@
         <mxCell id="P4R8nn5ndPGDNmx8mmYe-217" value="True" style="text;html=1;strokeColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="255" y="2780" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4wsAkTQEufEY9Hd-_VNX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4wsAkTQEufEY9Hd-_VNX-1" target="0WpJYHQ6ToNhvBG4izZX-143">
+        <mxCell id="4wsAkTQEufEY9Hd-_VNX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="4wsAkTQEufEY9Hd-_VNX-1" target="0WpJYHQ6ToNhvBG4izZX-143" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-110" y="2868.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wsAkTQEufEY9Hd-_VNX-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" vertex="1" parent="1">
+        <mxCell id="4wsAkTQEufEY9Hd-_VNX-1" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.mail;" parent="1" vertex="1">
           <mxGeometry y="2860" width="30" height="16.5" as="geometry" />
         </mxCell>
-        <mxCell id="HRfM_kiKL9HyRBQIoTKB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1.033;exitY=0.788;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="cKcimtRKkqEDImzuUFGS-40" edge="1" source="4wsAkTQEufEY9Hd-_VNX-1">
+        <mxCell id="HRfM_kiKL9HyRBQIoTKB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1.033;exitY=0.788;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="4wsAkTQEufEY9Hd-_VNX-1" target="cKcimtRKkqEDImzuUFGS-40" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="31" y="2869" />
@@ -494,10 +494,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wsAkTQEufEY9Hd-_VNX-4" value="Ricoh146_Job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4wsAkTQEufEY9Hd-_VNX-4" value="Ricoh146_Job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-380" y="930" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="4wsAkTQEufEY9Hd-_VNX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="4wsAkTQEufEY9Hd-_VNX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="185" y="1590" as="sourcePoint" />
             <mxPoint x="185" y="1654" as="targetPoint" />
@@ -507,7 +507,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wsAkTQEufEY9Hd-_VNX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="4wsAkTQEufEY9Hd-_VNX-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="185" y="1590" as="sourcePoint" />
             <mxPoint x="185" y="1654" as="targetPoint" />
