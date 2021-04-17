@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-17T06:15:08.779Z" agent="5.0 (Windows)" etag="EyCwmrqQ5XS23-ORZZg0" version="14.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-17T10:10:53.384Z" agent="5.0 (Windows)" etag="tGrzq30j62IKSWuLGAVv" version="14.6.1" type="github">
   <diagram id="kqYcGlFVVgmk62MRQCvQ" name="Page-1">
-    <mxGraphModel dx="2586" dy="1946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1718" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -494,8 +494,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4wsAkTQEufEY9Hd-_VNX-4" value="Ricoh146_Job" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-380" y="930" width="90" height="20" as="geometry" />
+        <mxCell id="4wsAkTQEufEY9Hd-_VNX-4" value="Ricoh AP Invoice Index Data Extract" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-380" y="930" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4wsAkTQEufEY9Hd-_VNX-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
