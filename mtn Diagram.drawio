@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-15T15:05:50.414Z" agent="5.0 (Windows)" etag="f1x7TbRcDhxFFiB9bpqL" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-15T15:07:29.984Z" agent="5.0 (Windows)" etag="32XCm7dbwONObVk7NcgB" version="14.9.6" type="github">
   <diagram id="aq44EoE90lg8WLvPTB9M" name="Page-1">
     <mxGraphModel dx="939" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -250,6 +250,12 @@
         </mxCell>
         <mxCell id="aMRXGYOaUz1cND3HG0NE-2" value="Bubble up faults to Global Fault" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1320" y="130" width="117" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aMRXGYOaUz1cND3HG0NE-6" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="654.5" y="280" as="sourcePoint" />
+            <mxPoint x="654.5" y="320" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
