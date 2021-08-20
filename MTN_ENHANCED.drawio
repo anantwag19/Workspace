@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-19T14:59:27.102Z" agent="5.0 (Windows)" etag="O6zNk1unImPod_UYNZee" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-20T03:53:43.062Z" agent="5.0 (Windows)" etag="5UmdLlwiSZk0VQR72Np9" version="14.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2147" dy="1626" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1980" dy="1626" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="-440" y="900" width="830" height="240" as="geometry" />
         </mxCell>
         <mxCell id="ft9o0P1f0L_G19jUJm6I-268" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-250" y="60" width="920" height="220" as="geometry" />
+          <mxGeometry x="-250" y="60" width="1120" height="260" as="geometry" />
         </mxCell>
         <mxCell id="ft9o0P1f0L_G19jUJm6I-271" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ft9o0P1f0L_G19jUJm6I-269" target="ft9o0P1f0L_G19jUJm6I-270" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="553" y="60" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="WeWkUzsG9HBNJlI6EVqi-3" value="INVOKE FUSIONCALL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="136.56" width="120" height="60" as="geometry" />
+          <mxGeometry x="700" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WeWkUzsG9HBNJlI6EVqi-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WeWkUzsG9HBNJlI6EVqi-6" target="WeWkUzsG9HBNJlI6EVqi-3">
           <mxGeometry relative="1" as="geometry" />
@@ -424,6 +424,9 @@
         </mxCell>
         <mxCell id="WeWkUzsG9HBNJlI6EVqi-175" value="INVOKE FUSIONCALL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="970" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WeWkUzsG9HBNJlI6EVqi-178" value="INT101_ReceivablesInvoices_ERP_URA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-60" y="10" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
