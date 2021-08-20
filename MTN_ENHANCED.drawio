@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-20T17:50:11.137Z" agent="5.0 (Windows)" etag="SyNUDfhw2etkTuqfbYKc" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-20T17:52:41.997Z" agent="5.0 (Windows)" etag="xtWXmT1IX5JA7SQyPgW4" version="14.9.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3207" dy="1707" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -649,13 +649,13 @@
         <mxCell id="e01KKH6Mvmh2qi1BjheT-697" value="28-Jan-2021 09:58 UTC" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="e01KKH6Mvmh2qi1BjheT-688">
           <mxGeometry x="616" width="71" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="e01KKH6Mvmh2qi1BjheT-698" value="xxxxx" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="e01KKH6Mvmh2qi1BjheT-688">
+        <mxCell id="e01KKH6Mvmh2qi1BjheT-698" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="e01KKH6Mvmh2qi1BjheT-688">
           <mxGeometry x="687" width="60" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="e01KKH6Mvmh2qi1BjheT-699" value="zzzzzz" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="e01KKH6Mvmh2qi1BjheT-688">
+        <mxCell id="e01KKH6Mvmh2qi1BjheT-699" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="e01KKH6Mvmh2qi1BjheT-688">
           <mxGeometry x="747" width="54" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="e01KKH6Mvmh2qi1BjheT-700" value="yyyyy" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="e01KKH6Mvmh2qi1BjheT-688">
+        <mxCell id="e01KKH6Mvmh2qi1BjheT-700" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;pointerEvents=1;" vertex="1" parent="e01KKH6Mvmh2qi1BjheT-688">
           <mxGeometry x="801" width="109" height="61" as="geometry" />
         </mxCell>
         <mxCell id="e01KKH6Mvmh2qi1BjheT-133" value="&lt;div&gt;URA_Invoice number&lt;/div&gt;&lt;div&gt;Antifakecode&lt;/div&gt;&lt;div&gt;QRCode&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
