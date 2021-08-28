@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T06:21:08.842Z" agent="5.0 (Windows)" etag="I2zKqtUrT3s9Lcypv87n" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T06:29:07.040Z" agent="5.0 (Windows)" etag="Z69uY61LHjaqdHG2txsC" version="15.0.3" type="github">
   <diagram id="OqqNFM583UxCrqPdrHQG" name="Page-1">
-    <mxGraphModel dx="2519" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2090" dy="604" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UhsbX5yJDHMg4uzKMwZn-3" value="IF &lt;span lang=&quot;EN-GB&quot;&gt;Transaction Total amount&lt;/span&gt;=+" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="401.25" y="100" width="128.75" height="90" as="geometry" />
+          <mxGeometry x="390" y="80" width="140" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UhsbX5yJDHMg4uzKMwZn-8" value="Credit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="649.72" y="160" width="110" height="40" as="geometry" />
@@ -280,6 +280,9 @@
         </mxCell>
         <mxCell id="UiRoGU5KTA9ZWGQ2f7Ob-1" value="&lt;b&gt;BUSINESS-EVENT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="50" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UiRoGU5KTA9ZWGQ2f7Ob-3" value="INT101_RECEIVABLES_DEBIT_CREDIT_ERP_URA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="355.27" y="12" width="189.45" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
