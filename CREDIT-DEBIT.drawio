@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-28T06:29:07.040Z" agent="5.0 (Windows)" etag="Z69uY61LHjaqdHG2txsC" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-28T06:29:36.523Z" agent="5.0 (Windows)" etag="7gSaeeEreLRB5PB1aPbW" version="15.0.3" type="github">
   <diagram id="OqqNFM583UxCrqPdrHQG" name="Page-1">
-    <mxGraphModel dx="2090" dy="604" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1449" dy="292" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -281,8 +281,8 @@
         <mxCell id="UiRoGU5KTA9ZWGQ2f7Ob-1" value="&lt;b&gt;BUSINESS-EVENT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="355" y="50" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UiRoGU5KTA9ZWGQ2f7Ob-3" value="INT101_RECEIVABLES_DEBIT_CREDIT_ERP_URA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="355.27" y="12" width="189.45" height="20" as="geometry" />
+        <mxCell id="UiRoGU5KTA9ZWGQ2f7Ob-3" value="INT101_RECEIVABLES_DEBIT_CREDIT_ERP_URA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="355.27" width="189.45" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
