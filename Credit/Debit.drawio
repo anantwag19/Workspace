@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T09:07:23.851Z" agent="5.0 (Windows)" etag="5OXalJJN7QWz_n_BaZzk" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T09:08:16.493Z" agent="5.0 (Windows)" etag="xaMcnRkUonfuViIAL5H9" version="15.0.3" type="github">
   <diagram id="lHmtqaqjQOU1sFie7Hmg" name="Page-1">
     <mxGraphModel dx="1135" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,8 +55,11 @@
         <mxCell id="hsaixpKsRT6CGWqEELvk-19" value="Fusion " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="810" width="120" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="hsaixpKsRT6CGWqEELvk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsaixpKsRT6CGWqEELvk-20" target="hsaixpKsRT6CGWqEELvk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hsaixpKsRT6CGWqEELvk-20" value="URA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="780" width="120" height="190" as="geometry" />
+          <mxGeometry x="610" y="800" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="hsaixpKsRT6CGWqEELvk-21" value="&lt;div&gt;Credit = Complete &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Transactionnumber =YYY&lt;/div&gt;&lt;div&gt;OriginalTransactionnumber= 123&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="720" width="150" height="150" as="geometry" />
@@ -65,7 +68,13 @@
           <mxGeometry x="410" y="770" width="150" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hsaixpKsRT6CGWqEELvk-23" value="invoiceNo&quot;: &quot;8888888&quot;&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&quot;invoiceId&quot;: &quot;89045&quot;,&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br&gt;AntifakeCode&lt;br&gt;QRCODE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="970" width="250" height="120" as="geometry" />
+          <mxGeometry x="360" y="890" width="250" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hsaixpKsRT6CGWqEELvk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.295;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="hsaixpKsRT6CGWqEELvk-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="860" as="sourcePoint" />
+            <mxPoint x="570" y="830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
