@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-31T12:55:36.873Z" agent="5.0 (Windows)" etag="Bzl-mL--Fw7hWwBb96Se" version="15.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-31T12:57:14.052Z" agent="5.0 (Windows)" etag="PGMfw60bD8YR-AXcybx9" version="15.0.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2604" dy="1550" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,6 +130,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0RVmYRzJXh26RqN8a2YC-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KrO5ZJWn5pO9KTqNIZPS-117" target="0RVmYRzJXh26RqN8a2YC-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KrO5ZJWn5pO9KTqNIZPS-117" value="Sucess " style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-610" y="370" width="80" height="80" as="geometry" />
         </mxCell>
@@ -206,6 +209,15 @@
         </mxCell>
         <mxCell id="0RVmYRzJXh26RqN8a2YC-49" value="&lt;div&gt;&lt;b&gt;T109 Sucess&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Call Fusion API &lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-540" y="360" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0RVmYRzJXh26RqN8a2YC-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0RVmYRzJXh26RqN8a2YC-51" target="Fbf1wTFu11FXDB3TKM-X-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0RVmYRzJXh26RqN8a2YC-51" value="Failed T109" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-630" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0RVmYRzJXh26RqN8a2YC-54" value="Failed T109" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-560" y="440" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
