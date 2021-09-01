@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T04:33:11.817Z" agent="5.0 (Windows)" etag="wYQfhEKX0L09EWuGFW1K" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T04:40:05.041Z" agent="5.0 (Windows)" etag="0R3HSNTG-ZUDs8LyEPLL" version="15.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="4444" dy="1931" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3867" dy="1707" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -258,7 +258,7 @@
         <mxCell id="UXb4hYTMDsfj2pyAk_Pb-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UXb4hYTMDsfj2pyAk_Pb-20" target="UXb4hYTMDsfj2pyAk_Pb-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UXb4hYTMDsfj2pyAk_Pb-20" value="&lt;div&gt;Select Records where Status&lt;/div&gt;&lt;div&gt;= URA_INV_TMOUT&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="UXb4hYTMDsfj2pyAk_Pb-20" value="&lt;div&gt;Select Records where Status&lt;/div&gt;&lt;div&gt;= URA_INV_TMOUT&lt;/div&gt;&lt;div&gt;or &lt;br&gt;&lt;/div&gt;&lt;div&gt;URA_INV_RCVD&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-800" y="1180" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="UXb4hYTMDsfj2pyAk_Pb-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UXb4hYTMDsfj2pyAk_Pb-27" target="UXb4hYTMDsfj2pyAk_Pb-30" edge="1">
