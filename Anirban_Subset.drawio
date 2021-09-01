@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T08:47:09.552Z" agent="5.0 (Windows)" etag="gT9QLO8toq0ohEndQcJw" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T10:08:29.656Z" agent="5.0 (Windows)" etag="AVYV-RLEEEPmqYS0dF2j" version="15.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3617" dy="1931" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3337" dy="1822" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -498,7 +498,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1Gx6quBrjIFI_gOBSO-D-106" value="&lt;div&gt;CALL &lt;b&gt;INT101_MEDIATOR_RECEIVABLES_INVOICES_ERP_URA&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-1280" y="10" width="300" height="90" as="geometry" />
+          <mxGeometry x="-1290" y="-10" width="310" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1Gx6quBrjIFI_gOBSO-D-107" value="&lt;b&gt;INT101_SCHEDULED_FAILED_PROCESSING_ERP_URA&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-290" y="980" width="350" height="60" as="geometry" />
