@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T05:46:37.931Z" agent="5.0 (Windows)" etag="yrK7SNtl3658RiY0XoF7" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T05:49:11.796Z" agent="5.0 (Windows)" etag="X2UeCXB-Z59Yaqr6vbil" version="15.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3659" dy="1626" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4164" dy="1822" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -442,9 +442,6 @@
         </mxCell>
         <mxCell id="1Gx6quBrjIFI_gOBSO-D-63" value="URA_INV_TMOUT" style="rhombus;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-630" y="1060" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="1Gx6quBrjIFI_gOBSO-D-67" value="&lt;div&gt;CALL Fusion API &lt;br&gt;&lt;/div&gt;&lt;div&gt;Integration&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-20" y="1380" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1Gx6quBrjIFI_gOBSO-D-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="1Gx6quBrjIFI_gOBSO-D-68" target="1Gx6quBrjIFI_gOBSO-D-69">
           <mxGeometry relative="1" as="geometry" />
