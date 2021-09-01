@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T07:23:26.263Z" agent="5.0 (Windows)" etag="WGW5wsc4sgDJ5VDC-Uzk" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T07:23:37.504Z" agent="5.0 (Windows)" etag="t90lZ5pBlySx-L0Zzgjc" version="15.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3337" dy="1822" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -491,7 +491,7 @@
           <mxGeometry x="-830" y="1050" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1Gx6quBrjIFI_gOBSO-D-108" value="&lt;b&gt;INT101_MEDIATOR_RECEIVABLES_INVOICES_ERP_URA&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-930" y="80" width="320" height="70" as="geometry" />
+          <mxGeometry x="-940" y="130" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
