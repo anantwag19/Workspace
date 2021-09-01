@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-01T03:50:54.376Z" agent="5.0 (Windows)" etag="bCHZzEYDGsWN6vCd82d8" version="15.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-01T03:52:33.773Z" agent="5.0 (Windows)" etag="l0VrPEs6JZgeQNzVSDBY" version="15.0.4" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="4034" dy="1707" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -221,14 +221,14 @@
         <mxCell id="0RVmYRzJXh26RqN8a2YC-59" value="Tax Number,&lt;br&gt;Digital Signature,&lt;br&gt;QR Code,URA &lt;br&gt;Invoice ID,&lt;br&gt;Application ID (CM)" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="40" y="770" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="0RVmYRzJXh26RqN8a2YC-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0RVmYRzJXh26RqN8a2YC-62" target="0RVmYRzJXh26RqN8a2YC-64" edge="1">
+        <mxCell id="1Gx6quBrjIFI_gOBSO-D-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0RVmYRzJXh26RqN8a2YC-62" target="0RVmYRzJXh26RqN8a2YC-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0RVmYRzJXh26RqN8a2YC-62" value="Sucess" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-530" y="750" width="80" height="80" as="geometry" />
+          <mxGeometry x="-590" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0RVmYRzJXh26RqN8a2YC-64" value="&lt;div&gt;CALL Fusion API &lt;br&gt;&lt;/div&gt;&lt;div&gt;Integration&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-570" y="890" width="130" height="60" as="geometry" />
+          <mxGeometry x="-610" y="860" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UXb4hYTMDsfj2pyAk_Pb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.29;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="0RVmYRzJXh26RqN8a2YC-66" target="Fbf1wTFu11FXDB3TKM-X-26" edge="1">
           <mxGeometry relative="1" as="geometry">
