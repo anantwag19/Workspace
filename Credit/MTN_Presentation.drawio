@@ -1,20 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T10:55:40.153Z" agent="5.0 (Windows)" etag="_2Ulq6tTg-KhikuB-cOa" version="15.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-30T17:01:42.224Z" agent="5.0 (Windows)" etag="8MAv9SPE_IbtZicISIdZ" version="15.3.3" type="github">
   <diagram id="8HeUtQUGu5ji-7GCRT2_" name="Page-1">
-    <mxGraphModel dx="1080" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0yW0VmLgAH_ZyGegOOnq-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="0yW0VmLgAH_ZyGegOOnq-1" target="0yW0VmLgAH_ZyGegOOnq-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0yW0VmLgAH_ZyGegOOnq-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="248" y="140.50169491525423" as="sourcePoint" />
+            <mxPoint x="642" y="138.49830508474577" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="0yW0VmLgAH_ZyGegOOnq-1" value="&lt;div&gt;Oracle Fusion Cloud &lt;br&gt;&lt;/div&gt;&lt;div&gt;(SAAS)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="0yW0VmLgAH_ZyGegOOnq-1" value="&lt;div&gt;Oracle Fusion Cloud &lt;br&gt;&lt;/div&gt;&lt;div&gt;(SAAS)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="60" y="70" width="180" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="0yW0VmLgAH_ZyGegOOnq-2" value="&lt;div&gt;URA System &lt;br&gt;&lt;/div&gt;&lt;div&gt;(SAAS)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="zuqMHrgULl5Wnxdr1BqJ-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="0yW0VmLgAH_ZyGegOOnq-2" target="0yW0VmLgAH_ZyGegOOnq-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="744" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0yW0VmLgAH_ZyGegOOnq-2" value="&lt;div&gt;URA System &lt;br&gt;&lt;/div&gt;&lt;div&gt;(SAAS)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="650" y="72" width="180" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="0yW0VmLgAH_ZyGegOOnq-3" value="Oracle DBASS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="360" y="360" width="175" height="110" as="geometry" />
+        <mxCell id="zuqMHrgULl5Wnxdr1BqJ-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="0yW0VmLgAH_ZyGegOOnq-3" target="0yW0VmLgAH_ZyGegOOnq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0yW0VmLgAH_ZyGegOOnq-3" value="Oracle DBASS" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="380" y="380" width="175" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zuqMHrgULl5Wnxdr1BqJ-3" value="T109 API CALL " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zuqMHrgULl5Wnxdr1BqJ-8" value="&lt;div&gt;Fusion Invoicenumber,&lt;/div&gt;&lt;div&gt;URAInvoiceNumber&lt;br&gt;&lt;/div&gt;&lt;div&gt;URAInvoiceID&lt;/div&gt;&lt;div&gt;AntifakeCode&lt;/div&gt;&lt;div&gt;QRCode&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="290" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
