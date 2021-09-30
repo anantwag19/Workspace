@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2021-09-30T10:43:58.150Z" agent="5.0 (Windows)" version="15.3.3" etag="AnpcPBAq_VKAe9VdD94K" type="github"><diagram id="8HeUtQUGu5ji-7GCRT2_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-30T10:46:07.885Z" agent="5.0 (Windows)" etag="C6dNVvexYD1V2nKDgbrn" version="15.3.3" type="github">
+  <diagram id="8HeUtQUGu5ji-7GCRT2_" name="Page-1">
+    <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0yW0VmLgAH_ZyGegOOnq-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="248" y="130.01999999999998" as="sourcePoint" />
+            <mxPoint x="650" y="126" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0yW0VmLgAH_ZyGegOOnq-1" value="&lt;div&gt;Oracle Fusion Cloud &lt;br&gt;&lt;/div&gt;&lt;div&gt;(SAAS)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="180" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="0yW0VmLgAH_ZyGegOOnq-2" value="&lt;div&gt;URA System &lt;br&gt;&lt;/div&gt;&lt;div&gt;(SAAS)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="70" width="180" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="0yW0VmLgAH_ZyGegOOnq-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="175" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
