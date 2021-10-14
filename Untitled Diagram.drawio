@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T06:41:44.600Z" agent="5.0 (Windows)" etag="myxw7OzdsoPvRDHi2l58" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-14T06:49:15.131Z" agent="5.0 (Windows)" etag="xwlZYvNsvkmcPgCe5_7j" version="15.4.1" type="github">
   <diagram id="hxuHp7S3ArblREuXfNAP" name="Page-1">
     <mxGraphModel dx="868" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="udElQdmfZvGijcah2lYH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="udElQdmfZvGijcah2lYH-1" target="udElQdmfZvGijcah2lYH-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="udElQdmfZvGijcah2lYH-1" value="Fusion " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="60" y="70" width="120" height="120" as="geometry" />
+        <mxCell id="udElQdmfZvGijcah2lYH-1" value="&lt;div&gt;1)Fusion(Autoinvoice/CM)&lt;/div&gt;&lt;div&gt;2)For StandaloneCM/DM -BIP&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="udElQdmfZvGijcah2lYH-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="udElQdmfZvGijcah2lYH-2" target="udElQdmfZvGijcah2lYH-4">
           <mxGeometry relative="1" as="geometry">
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="udElQdmfZvGijcah2lYH-4" value="OIC " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="620" y="140" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="udElQdmfZvGijcah2lYH-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.alarm_clock;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="27" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
