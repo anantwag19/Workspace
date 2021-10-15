@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T09:00:29.355Z" agent="5.0 (Windows)" etag="I7fdA_SSMo71RYFmK2bu" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-15T09:01:41.564Z" agent="5.0 (Windows)" etag="CF6Yxq-1poJjb3Iphted" version="15.5.2" type="github">
   <diagram id="i8NB1QxHxisFIHtfq3lM" name="Page-1">
     <mxGraphModel dx="1800" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="oLoPcaxFbw4eC5uNV59j-18" value="&lt;div&gt;Real time -&lt;/div&gt;&lt;div&gt;DEBIT/CREDIT&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="-220" y="250" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pP53KTpZ6C_6MqTX0sqI-8" value="" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="15" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
