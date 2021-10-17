@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T13:09:19.614Z" agent="5.0 (Windows)" etag="j7SPDmSxxCqp35X4V55p" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-17T06:43:01.880Z" agent="5.0 (Windows)" etag="BBTGFR9pXdEeVnipR4IL" version="15.5.2" type="github">
   <diagram id="i8NB1QxHxisFIHtfq3lM" name="Page-1">
     <mxGraphModel dx="2187" dy="1753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
         <mxCell id="pP53KTpZ6C_6MqTX0sqI-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pP53KTpZ6C_6MqTX0sqI-20" target="pP53KTpZ6C_6MqTX0sqI-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pP53KTpZ6C_6MqTX0sqI-20" value="ERPBulKExtract" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="pP53KTpZ6C_6MqTX0sqI-20" value="ERPBulKExtract" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="-230" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pP53KTpZ6C_6MqTX0sqI-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pP53KTpZ6C_6MqTX0sqI-21" target="oLoPcaxFbw4eC5uNV59j-1">
