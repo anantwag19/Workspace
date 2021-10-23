@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-23T20:22:02.545Z" agent="5.0 (Windows)" etag="wQGfh0_aXgU6suG2LTf7" version="15.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-23T20:24:38.087Z" agent="5.0 (Windows)" etag="NYwErlZfS8GoopJLnSBh" version="15.5.8" type="github">
   <diagram id="HXzt17Rm_zem7e5teo9B" name="Page-1">
     <mxGraphModel dx="3147" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -126,9 +126,6 @@
         </mxCell>
         <mxCell id="_rh--6CCZ1OBjoR3TniN-41" value="&lt;div&gt;6&lt;/div&gt;&lt;div&gt;CM&lt;br&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-360" y="487.25" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="_rh--6CCZ1OBjoR3TniN-42" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.gauge;fontFamily=Courier New;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="487.25" width="32.4" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="_rh--6CCZ1OBjoR3TniN-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_rh--6CCZ1OBjoR3TniN-44" target="_rh--6CCZ1OBjoR3TniN-46">
           <mxGeometry relative="1" as="geometry">
