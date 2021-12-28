@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T11:36:11.660Z" agent="5.0 (Windows)" etag="qT5EEbjQ_aWk9bbeUDJW" version="16.1.0" type="github"><diagram id="E0pzhCUIHwseowSASEyO" name="Page-1">zVpZc6M4EP41rtp9sIvD+Hj0lU22PJPUOFUz+7Qlg2y0AUSEnNjz60cN4hDIRyYm2bwYtVot0cfX3SIdexbu/2Io9r9QDwcdy/D2HXvesSxzNDTFD1AOGaU/cjLClhFPMpWEFfmJJdGQ1B3xcKIwckoDTmKV6NIowi5XaIgx+qqybWig7hqjLW4QVi4KmtTvxON+Rh05Rkm/xWTr5zubhpwJUc4sCYmPPPpaIdmLjj1jlPLsKdzPcADKy/WSrbs5MlscjOGIX7Lg5/NDfPdj8feUzJ6i58eXsbP0u+YwE/OCgp18Y3lafshVwOgu8jBIMTr29NUnHK9i5MLsqzC6oPk8DMTIFI8bGnFpxZEYSumYcbw/em6z0IZwI0xDzNlBsBQ+JBUoPcjKx6+lPeyhpPlVWxjS1ZD0gW0hu1STeJCaeoPW7IaOsCe8Rg4p4z7d0ggFi5I6VbVY8iwpjaXu/sOcH6Ty0I5TVbPZnrDRaUWKc9Edc/Epq8tAQmyL+Qk+S28YhgPEyYt6jqsruXibD9Wy1n8/VOnOO5Uulz5QIk5YRJHl1KIoH+cisnPJVaXpJoyhQ4UtBobkxD71aDWNmidkEku/KN7x913F1IDYIBBKnnrkRTxu4XF1e/cgmAS2R/BzSDgOu3PMEQmSnF3sXlmhETLzcUKSaBeuMetYMxCWDzLeNauvrst8D7peAU67pmqgQRNNzbEOTUfGcZ97V6Cb488IdKEudvgBg55hFIR/QGBvYPRzwnwvt8hGh+roATMiVCCMnxHbww7rQuw4Yvq3YcdbQ96xVI8yh7ZaiLyNvx2IsBoQcc+QK1zJMhbfABceGYqSWDiS0BSNPj1MnYGqJLsZpkVlqYTpsK0wdS4B2Qwfvxb4iNwCH2cXg+xEBCuJXIZDoaw/vmGXxDzaCSF/XoipotSO4dE9BERYjdnnTbbO7LtcFwTkPm1Tq9/vuBCDJT3JAtx0rlTdjmv5cqypbm2Nocdt2flz0djoDR0FjM8AcXuYO/ggzH2XsQaaoDwSDOF+Cy16LyHbKOlxBe56LmL/mqpJUtjHbPGCAf1ldUyCYEYDylLRtpH+QVBwRp9wPhNRiJYpxAURnfQSrXHwQBOSAqs9X1POaVhhmATiSGKCg7NMkRy5OEpT6zWirIDPPOVoih5H20K2FWXNvnt2u1jdrQQtR8+aHcXbc9VCWq1XTSRJDY3WFR8Sz0vjWAeSamxfwxjDs6ltoLVFS6YYHU1sAC6KEQbPO5pPdLNMMBEMo3hfzuVZ6RHsVearTNaRhNW07eU2YyLj/kTrVJSRx22qI2faceYgS8Btnrbe4DZXMLWdX8Hk2U2T3DSmtlprNZq21twyBAGJk2PhULVREmdXjhuyhwBp4fLLHqgKNG2nocG+RoP9tjSYJ5hTGQdH3gSuXsF9A5QkxFX1piJKTWlKX1a0YbIvGxccb+nLLi8KfjfZV6yhSyM57Z13OLatOoNdz05ZTdO4w2kKGtXCsqXLoPqBLcM4eS5zZJ7ib6kztN+N/6alSwD3NzfLu68LMUQhIEe0TuJ02lhh9gIZ3rg0P+Q1XMIxiIgrDg6kisOfvZ8HqFqVyaAWfYzK/teed/tXyvf1fl9bfenSQGutrNU/anJNZ7rOCWZPbW8L263P3fmdl231qneJs+sKt3tKS31d4cca9LOi9TXQpdVJxad1Ln+0XKJiZhOkyckXNBypQWBa13H6Qb2v72ucPv84+iF9vdW8wLmhAELiEDfpjnAvfitSiPjpdvIrcjge8kB4kuywAHvjC4l2PH2a33//KpknyyXkTxEfWAN4KE35UCkDohszxGD5SjR8MQYypx34hBvCdRxcvhkedp9AcrdbSEu95rtPXL84ktgO1vmIwJrJZgPlWHaex3RK3vlPgPogml3QPxLOAos36cuHlAEjJ+nevU7xtfb/1ni14KO1Pqyvqc4da9hzmk76O32xGJYfu7PkXf7LgL34BQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-28T11:37:26.996Z" agent="5.0 (Windows)" etag="nQKDLpQ42ctB_WRpAvTG" version="16.1.0" type="github">
+  <diagram id="E0pzhCUIHwseowSASEyO" name="Page-1">
+    <mxGraphModel dx="1718" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="180" y="280" width="370" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zqPpIXEJBiCknqTv95Lh-1" target="zqPpIXEJBiCknqTv95Lh-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" parent="1" source="zqPpIXEJBiCknqTv95Lh-1" target="zqPpIXEJBiCknqTv95Lh-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-1" value="&lt;div&gt;SHIP Scan System-Details&lt;/div&gt;&lt;div&gt;Chesisnumber,Scannumber&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-10" y="60" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.001;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;" parent="1" source="zqPpIXEJBiCknqTv95Lh-2" target="zqPpIXEJBiCknqTv95Lh-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="173" />
+              <mxPoint x="520" y="173" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-2" value="Oracle ERP Transportation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="30" width="220" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-5" value="&lt;div&gt;ChesisNumber,Sacnnumber,&lt;/div&gt;&lt;div&gt;Autoincrement(Reciptnuber)&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" parent="1" vertex="1">
+          <mxGeometry x="190" y="290" width="330" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=8;" parent="1" source="zqPpIXEJBiCknqTv95Lh-6" target="zqPpIXEJBiCknqTv95Lh-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-6" value="" style="shape=mxgraph.signs.transportation.car_1;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" parent="1" vertex="1">
+          <mxGeometry x="230" y="10" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-7" value="CHESIS Number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="30" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-8" value="&lt;font style=&quot;font-size: 8px&quot;&gt;Text&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="305" y="20" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-18" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
+          <mxGeometry x="365" y="135" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-22" value="" style="endArrow=classic;html=1;rounded=0;fontSize=8;entryX=1.004;entryY=0.698;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="zqPpIXEJBiCknqTv95Lh-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="300" as="sourcePoint" />
+            <mxPoint x="385" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="335" y="200" />
+              <mxPoint x="181" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-23" value="&lt;font style=&quot;font-size: 12px&quot;&gt;OFFLINE&amp;nbsp; Server &lt;/font&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=8;rotation=-40;" parent="1" vertex="1">
+          <mxGeometry x="520" y="210" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-24" value="&lt;div&gt;&lt;b&gt;1.ChesisNumber&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2.Scannumber,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3.Autoincrement&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Reciptnuber)&lt;/b&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="690" y="240" width="171" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zqPpIXEJBiCknqTv95Lh-25" value="For 1/2 an Hour - System had issues Minutes DOWN - ALL these&amp;nbsp; around 800 Cars Stopped to come on deck ---&amp;gt;Which had the chain Affect - The SHIP At Port waited for more time . " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="70" y="420" width="527.5" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
