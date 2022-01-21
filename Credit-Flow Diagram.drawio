@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T11:58:17.163Z" agent="5.0 (Windows)" etag="xBaS2VwAMN_mO62V71bC" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T11:59:16.209Z" agent="5.0 (Windows)" etag="aHWPPPfCxQgHKgWQKB3Z" version="16.2.7" type="github">
   <diagram id="QBchSwfQgvvRqoAkoElo" name="Page-1">
     <mxGraphModel dx="868" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,6 +47,9 @@
         </mxCell>
         <mxCell id="_aDls08xKMx5EJanJG5F-20" value="&lt;div&gt;INT101_BE_Debit&lt;/div&gt;&lt;div&gt;_Credit_ERP_URA&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=0" parent="_aDls08xKMx5EJanJG5F-16" vertex="1">
           <mxGeometry x="30" y="15" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="B8IcdggADXOZ8Fm9hswP-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="_aDls08xKMx5EJanJG5F-16" source="_aDls08xKMx5EJanJG5F-21" target="_aDls08xKMx5EJanJG5F-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_aDls08xKMx5EJanJG5F-21" value="&lt;div&gt;&amp;nbsp;INT101_Schedular_&lt;/div&gt;&lt;div&gt;CreditMemo&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=0" parent="_aDls08xKMx5EJanJG5F-16" vertex="1">
           <mxGeometry x="360" y="120" width="100" height="60" as="geometry" />
