@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T05:23:15.720Z" agent="5.0 (Windows)" etag="8vN5Gb9N8132D66cIiov" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T05:26:08.440Z" agent="5.0 (Windows)" etag="kd49owXE2KbRUMRqgVq4" version="16.2.7" type="github">
   <diagram id="QBchSwfQgvvRqoAkoElo" name="Page-1">
     <mxGraphModel dx="868" dy="412" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,10 +34,10 @@
             <mxPoint x="185" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_WeS0L_78n82KtswuAGA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;" parent="_WeS0L_78n82KtswuAGA-10" edge="1">
+        <mxCell id="_WeS0L_78n82KtswuAGA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;exitX=0.992;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" parent="_WeS0L_78n82KtswuAGA-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="315" y="45" as="sourcePoint" />
-            <mxPoint x="385" y="45" as="targetPoint" />
+            <mxPoint x="309.03999999999996" y="40" as="sourcePoint" />
+            <mxPoint x="385" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VZgvoDStMmctj56R9S_6-2" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;a name=&quot;_Toc93504366&quot; style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot; lang=&quot;EN-GB&quot;&gt;INT101_BE_&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;a name=&quot;_Toc93504366&quot; style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot; lang=&quot;EN-GB&quot;&gt;Invoices_ERP_URA&lt;/span&gt;&lt;/a&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="_WeS0L_78n82KtswuAGA-10">
@@ -58,14 +58,14 @@
             <mxPoint x="249.95185185185187" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VZgvoDStMmctj56R9S_6-11" value="&lt;div&gt;3.1&lt;/div&gt;&lt;div&gt;Invoke- URA Invoice API&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="_WeS0L_78n82KtswuAGA-10">
-          <mxGeometry x="150" y="80" width="95" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="_WeS0L_78n82KtswuAGA-11" value="URA API" style="swimlane;startSize=20;horizontal=0;" parent="_WeS0L_78n82KtswuAGA-8" vertex="1">
           <mxGeometry y="310" width="550" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VZgvoDStMmctj56R9S_6-6" value="T109 API " style="rounded=1;whiteSpace=wrap;html=1;fontSize=11;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="_WeS0L_78n82KtswuAGA-11">
           <mxGeometry x="183.08" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VZgvoDStMmctj56R9S_6-11" value="&lt;div&gt;3.1&lt;/div&gt;&lt;div&gt;Invoke- URA Invoice API&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="_WeS0L_78n82KtswuAGA-11">
+          <mxGeometry x="140" y="-13" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_WeS0L_78n82KtswuAGA-20" style="swimlane;startSize=20;horizontal=0;" parent="_WeS0L_78n82KtswuAGA-8" vertex="1">
           <mxGeometry y="430" width="550" height="120" as="geometry" />
@@ -76,18 +76,21 @@
         <mxCell id="VZgvoDStMmctj56R9S_6-7" value="Oracle DBAAS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_WeS0L_78n82KtswuAGA-13">
           <mxGeometry x="180" y="30" width="112.08" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_WeS0L_78n82KtswuAGA-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" parent="_WeS0L_78n82KtswuAGA-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="330" y="185" />
-              <mxPoint x="330" y="450" />
-            </Array>
-            <mxPoint x="315" y="185" as="sourcePoint" />
-            <mxPoint x="290" y="450" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="VZgvoDStMmctj56R9S_6-17" value="&lt;div&gt;3.2&lt;/div&gt;&lt;div&gt;Invoke- &lt;br&gt;&lt;/div&gt;&lt;div&gt;Insert into DB&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="_WeS0L_78n82KtswuAGA-13">
+          <mxGeometry x="128" y="-13" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VZgvoDStMmctj56R9S_6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;" edge="1" parent="_WeS0L_78n82KtswuAGA-8" source="_WeS0L_78n82KtswuAGA-25" target="VZgvoDStMmctj56R9S_6-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VZgvoDStMmctj56R9S_6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=11;" edge="1" parent="_WeS0L_78n82KtswuAGA-8" target="VZgvoDStMmctj56R9S_6-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="320" y="240" />
+              <mxPoint x="330" y="240" />
+              <mxPoint x="330" y="502" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_WeS0L_78n82KtswuAGA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -106,7 +109,7 @@
           <mxGeometry x="332.5" y="660" width="245" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_WeS0L_78n82KtswuAGA-19" value="Fusion Custom Object" style="swimlane;startSize=20;horizontal=0;fontSize=12;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="180" y="1200" width="550" height="190" as="geometry" />
+          <mxGeometry x="180" y="1250" width="550" height="190" as="geometry" />
         </mxCell>
         <mxCell id="VZgvoDStMmctj56R9S_6-8" value="ERP SAAS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=9;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="_WeS0L_78n82KtswuAGA-19">
           <mxGeometry x="190" y="40" width="112.08" height="90" as="geometry" />
