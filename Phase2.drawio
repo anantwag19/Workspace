@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2022-05-27T05:55:45.823Z" agent="5.0 (Windows)" version="18.1.3" etag="GcL_1AONZYpgffzwt4dt" type="github"><diagram id="4sqFuWiVwKnjYfEJDDzl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-27T06:01:07.123Z" agent="5.0 (Windows)" etag="aWIe2oPbsFixdZby-4hp" version="18.1.3" type="github">
+  <diagram id="4sqFuWiVwKnjYfEJDDzl" name="Page-1">
+    <mxGraphModel dx="914" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HCGoH43LMnZyMN9BwOUk-1" target="HCGoH43LMnZyMN9BwOUk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-1" value="Fusion APPS " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="100" width="121" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-2" value="URA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="90" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-4" value="&lt;div&gt;&lt;b&gt;Invoice&lt;/b&gt;&lt;/div&gt;1234" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="70" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HCGoH43LMnZyMN9BwOUk-6" target="HCGoH43LMnZyMN9BwOUk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-6" value="Fusion APPS " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="121" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-7" value="URA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-8" value="&lt;b&gt;Credit Invoice:&lt;/b&gt;1234" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HCGoH43LMnZyMN9BwOUk-10" target="HCGoH43LMnZyMN9BwOUk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-10" value="Fusion APPS " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="490" width="121" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-11" value="URA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="480" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-12" value="CANCEL CREDIT " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="440" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HCGoH43LMnZyMN9BwOUk-14" target="HCGoH43LMnZyMN9BwOUk-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-14" value="Fusion APPS " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="680" width="121" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-15" value="URA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="670" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="HCGoH43LMnZyMN9BwOUk-16" value="&lt;div&gt;&lt;b&gt;REISSUE ON SAME &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Invoice-1234 Credit &lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="620" width="200" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
